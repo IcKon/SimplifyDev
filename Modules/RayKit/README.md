@@ -4,7 +4,7 @@
 A simple wrapper [Module](https://github.com/IcKon/SimplifyDev/tree/main/Modules/RayKit/RayKit.lua) containing all Raycasting methods under Workspace. All in one simple place.
 
 ## [Dependencies](https://github.com/IcKon/SimplifyDev/tree/main/GlobalNotes/DependencyLinking)
-Optional: [EventKit](Downloads: https://github.com/IcKon/SimplifyDev/tree/main/Modules/EventKit)
+Optional: [EventKit](https://github.com/IcKon/SimplifyDev/tree/main/Modules/EventKit)
 
 ## Notes
 The EventKit Module in this case is not necessary for this module to function. It is used only for letting the user have a custom function run after a ray is shot. (easier way to use that will be added later)

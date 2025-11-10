@@ -6,7 +6,7 @@ A speciality is the .get function, receiving the responses from all the servers 
 **Note: This Module will be reworked. There will be some different behavior in regards to sending a GET request to other servers**
 
 ## [Dependencies](https://github.com/IcKon/SimplifyDev/tree/main/GlobalNotes/DependencyLinking)
-[UtilKit](Downloads: https://github.com/IcKon/SimplifyDev/tree/main/Modules/UtilKit), [EventKit](Downloads: https://github.com/IcKon/SimplifyDev/tree/main/Modules/EventKit)
+[UtilKit](https://github.com/IcKon/SimplifyDev/tree/main/Modules/UtilKit), [EventKit](https://github.com/IcKon/SimplifyDev/tree/main/Modules/EventKit)
 
 ## Examples
 ```lua

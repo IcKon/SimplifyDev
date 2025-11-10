@@ -3,7 +3,7 @@
 A simple Key to Bind Handler [Module](https://github.com/IcKon/SimplifyDev/tree/main/Modules/Keybind/Keybind.lua), letting you easily setup input management in your projects.
 
 ## [Dependencies](https://github.com/IcKon/SimplifyDev/tree/main/GlobalNotes/DependencyLinking)
-[UtilKit](Downloads: https://github.com/IcKon/SimplifyDev/tree/main/Modules/UtilKit), [EventKit](Downloads: https://github.com/IcKon/SimplifyDev/tree/main/Modules/EventKit)
+[UtilKit](https://github.com/IcKon/SimplifyDev/tree/main/Modules/UtilKit), [EventKit](https://github.com/IcKon/SimplifyDev/tree/main/Modules/EventKit)
 
 ## Examples
 ```lua

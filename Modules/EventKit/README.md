@@ -4,7 +4,7 @@ A simple Event Handler [Module](https://github.com/IcKon/SimplifyDev/tree/main/M
 You will need this for using almost any other Module by SimplifyDev.
 
 ## [Dependencies](https://github.com/IcKon/SimplifyDev/tree/main/GlobalNotes/DependencyLinking)
-[UtilKit](Downloads: https://github.com/IcKon/SimplifyDev/tree/main/Modules/UtilKit)
+[UtilKit](https://github.com/IcKon/SimplifyDev/tree/main/Modules/UtilKit)
 
 ## Examples
 ```lua
