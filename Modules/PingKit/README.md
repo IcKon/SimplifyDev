@@ -5,7 +5,7 @@ A wrapper [Module](https://github.com/IcKon/SimplifyDev/tree/main/Modules/PingKi
 A speciality is the .get function, receiving the responses from all the servers connected to that topic.
 **Note: This Module will be reworked. There will be some different behavior in regards to sending a GET request to other servers**
 
-## [Dependencies](https://github.com/IcKon/SimplifyDev/tree/main/GlobalNotes/DependencyLinking)
+## [Dependencies](https://github.com/IcKon/SimplifyDev/blob/main/GlobalNotes/DependencyLinking.md)
 [UtilKit](https://github.com/IcKon/SimplifyDev/tree/main/Modules/UtilKit), [EventKit](https://github.com/IcKon/SimplifyDev/tree/main/Modules/EventKit)
 
 ## Examples

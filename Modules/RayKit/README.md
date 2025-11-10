@@ -3,7 +3,7 @@
 ## Info
 A simple wrapper [Module](https://github.com/IcKon/SimplifyDev/tree/main/Modules/RayKit/RayKit.lua) containing all Raycasting methods under Workspace. All in one simple place.
 
-## [Dependencies](https://github.com/IcKon/SimplifyDev/tree/main/GlobalNotes/DependencyLinking)
+## [Dependencies](https://github.com/IcKon/SimplifyDev/blob/main/GlobalNotes/DependencyLinking.md)
 Optional: [EventKit](https://github.com/IcKon/SimplifyDev/tree/main/Modules/EventKit)
 
 ## Notes
