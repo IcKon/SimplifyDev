@@ -1,3 +1,4 @@
+# Dependency Linking
 This is a common enough issue in this project that it got its own file.
 
 The Modules need to communicate between each other. For that to happen, they need to know where each other Module is. For Utility Modules (such as [UtilKit](https://github.com/IcKon/SimplifyDev/tree/main/Modules/UtilKit) or [EventKit](https://github.com/IcKon/SimplifyDev/tree/main/Modules/EventKit)) - they're utility modules, they will be together with each other.
