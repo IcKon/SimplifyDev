@@ -1,0 +1,6 @@
+{
+    "version": "1.0.0",
+    "name": "StudBumpGenerator",
+    "description": "An optimized stud bump generator for stud builders",
+    "is_public": true, "is_functional": true
+}

@@ -1,5 +1,5 @@
 {
-    "version": "0.0.0",
+    "version": "0.1.0",
     "name": "EnvManager",
     "description": "(Description WIP) Splits props into Chunks with different Detail Types",
     "is_public": false, "is_functional": true
