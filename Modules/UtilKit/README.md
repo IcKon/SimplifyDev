@@ -1,4 +1,4 @@
-# UtilKit (UtilityKit)
+# UtilKit
 ## Info
 A utility [Module](https://github.com/IcKon/SimplifyDev/tree/main/Modules/UtilKit/UtilKit.lua) full of functions that tend to get repeated a lot in code.
 This Module is also the most used Dependency Module across the SimplifyDev projects.

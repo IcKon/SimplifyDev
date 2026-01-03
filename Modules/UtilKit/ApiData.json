@@ -1,0 +1,6 @@
+{
+    "version": "1.0.0",
+    "name": "UtilKit",
+    "description": "A utility module",
+    "is_public": true, "is_functional": true
+}

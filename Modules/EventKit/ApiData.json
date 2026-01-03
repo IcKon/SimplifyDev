@@ -1,0 +1,6 @@
+{
+    "version": "1.0.0",
+    "name": "EventKit",
+    "description": "An event handler",
+    "is_public": true, "is_functional": true
+}

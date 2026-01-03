@@ -1,0 +1,6 @@
+{
+    "version": "1.0.0",
+    "name": "PingKit",
+    "description": "A simple MessagingService wrapper module",
+    "is_public": true, "is_functional": true
+}

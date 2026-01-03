@@ -1,0 +1,6 @@
+{
+    "version": "1.0.0",
+    "name": "RayKit",
+    "description": "A simple raycast wrapper",
+    "is_public": true, "is_functional": true
+}

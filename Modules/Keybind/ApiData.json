@@ -1,0 +1,6 @@
+{
+    "version": "1.0.0",
+    "name": "Keybind",
+    "description": "A simple key to bind manager",
+    "is_public": true, "is_functional": true
+}
