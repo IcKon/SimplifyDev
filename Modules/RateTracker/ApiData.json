@@ -1,0 +1,6 @@
+{
+    "version": "1.0.0",
+    "name": "RateTracker",
+    "description": "A rate tracking module of custom events",
+    "is_public": true, "is_functional": true
+}
