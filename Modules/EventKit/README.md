@@ -1,6 +1,6 @@
 # EventKit
 ## Info
-A simple Event Handler [Module](https://github.com/IcKon/SimplifyDev/tree/main/Modules/EventKit/EventKit.lua), allowing you to connect/attach functions globally, to a string category or an Instance without having to worry about creating those Instances. It also optionally allows Client-Server communication.
+A Utility [Module](https://github.com/IcKon/SimplifyDev/tree/main/Modules/EventKit/EventKit.rbxm), allowing you to connect/attach functions globally, to a string category or an Instance without having to worry about creating those Instances. It also optionally allows for Client-Server communication.
 You will need this for using almost any other Module by SimplifyDev.
 
 ## [Dependencies](https://github.com/IcKon/SimplifyDev/blob/main/GlobalNotes/DependencyLinking.md)

@@ -1,6 +1,6 @@
 # Keybind
 ## Info
-A simple Key to Bind Handler [Module](https://github.com/IcKon/SimplifyDev/tree/main/Modules/Keybind/Keybind.lua), letting you easily setup input management in your projects.
+A Wrapper [Module](https://github.com/IcKon/SimplifyDev/tree/main/Modules/Keybind/Keybind.lua), handling Key to Bind events, letting you easily setup input management in your projects.
 
 ## [[Dependencies](https://github.com/IcKon/SimplifyDev/blob/main/GlobalNotes/DependencyLinking.md)
 [UtilKit](https://github.com/IcKon/SimplifyDev/tree/main/Modules/UtilKit), [EventKit](https://github.com/IcKon/SimplifyDev/tree/main/Modules/EventKit)

@@ -1,7 +1,7 @@
 # PingKit
 
 ## Info
-A wrapper [Module](https://github.com/IcKon/SimplifyDev/tree/main/Modules/PingKit/PingKit.lua) for MessagingService, communication between servers of the game.
+A Wrapper [Module](https://github.com/IcKon/SimplifyDev/tree/main/Modules/PingKit/PingKit.lua) for MessagingService, communication between servers of the game.
 A speciality is the .get function, receiving the responses from all the servers connected to that topic.
 **Note: This Module will be reworked. There will be some different behavior in regards to sending a GET request to other servers**
 

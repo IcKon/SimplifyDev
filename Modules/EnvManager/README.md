@@ -1,6 +1,6 @@
 # EnvManager
 ## Info
-A manager Module, dedicated for performing (custom) actions on the objects in the environment.
+A Manager Module, dedicated for performing (custom) actions on the objects in the environment.
 (Description WIP)
 
 ## [Dependencies](https://github.com/IcKon/SimplifyDev/blob/main/GlobalNotes/DependencyLinking.md)

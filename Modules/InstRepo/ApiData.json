@@ -1,0 +1,6 @@
+{
+    "version": "1.0.0",
+    "name": "InstRepo",
+    "description": "Stores Instances, lets you pass them to specific clients and request from server",
+    "is_public": true, "is_functional": true
+}

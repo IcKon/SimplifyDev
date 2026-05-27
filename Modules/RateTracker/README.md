@@ -1,6 +1,6 @@
 # RateTracker
 ## Info
-A utility [Module](https://github.com/IcKon/SimplifyDev/tree/main/Modules/RateTracker/RateTracker.lua) categorized, optimized frequency counter for custom actions within a specified time period.
+A Utility [Module](https://github.com/IcKon/SimplifyDev/tree/main/Modules/RateTracker/RateTracker.lua) categorized, optimized frequency counter for custom actions within a specified time period.
 
 ## [Dependencies](https://github.com/IcKon/SimplifyDev/blob/main/GlobalNotes/DependencyLinking.md)
 None
