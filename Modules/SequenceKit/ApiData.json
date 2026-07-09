@@ -1,0 +1,6 @@
+{
+    "version": "1.0.0",
+    "name": "SequenceKit",
+    "description": "A simple sequences manager",
+    "is_public": true, "is_functional": true
+}

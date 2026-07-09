@@ -7,7 +7,7 @@ Our Modules are targeted towards people trying to make simple projects or if the
 For news about the development and new publishes, be sure to follow our [Tumblr](https://www.tumblr.com/simplifydev)!
 We also try to post fun facts and resources for coding.
 
-To show support it some other way (though just following our tumblr is more than enough), a star for this repo would highly appreciate, giving us more motivation to work further on things for you guys.
+To show support it some other way (though just following our Tumblr is more than enough), a star for this repo would highly appreciate, giving us more motivation to work further on things for you guys.
 
 ## Modules
 WIP
